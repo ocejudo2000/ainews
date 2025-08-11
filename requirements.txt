@@ -1,0 +1,11 @@
+streamlit
+requests
+beautifulsoup4
+feedparser
+fpdf2
+python-docx
+lxml
+html2text
+Pillow
+python-dotenv
+googlesearch-python
