@@ -1,0 +1,39 @@
+{
+  "sources": [
+    {
+      "name": "Google AI Blog",
+      "url": "https://ai.googleblog.com/",
+      "type": "blog"
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/blog",
+      "type": "blog"
+    },
+    {
+      "name": "DeepMind Blog",
+      "url": "https://deepmind.google/blog/",
+      "type": "blog"
+    },
+    {
+      "name": "MIT News - Artificial Intelligence",
+      "url": "https://news.mit.edu/topic/artificial-intelligence2",
+      "type": "news"
+    },
+    {
+      "name": "TechCrunch - AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "type": "news"
+    },
+    {
+      "name": "Wired - Artificial Intelligence",
+      "url": "https://www.wired.com/tag/artificial-intelligence/",
+      "type": "news"
+    },
+    {
+      "name": "ArXiv CS.AI RSS",
+      "url": "https://rss.arxiv.org/rss/cs.AI",
+      "type": "rss"
+    }
+  ]
+}
